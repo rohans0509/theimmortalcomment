@@ -1,0 +1,35 @@
+img {
+  border-radius: 50%;
+  float:left;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.time {
+  display:inline-block;
+  margin-bottom: 0px;
+  color:#606060;
+}
+h4 {
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+p {
+  position:relative;
+
+}
+table {
+  width:100%;
+}
+div {
+  margin-left: 100px;
+  width=30%;
+}
+.comment {
+  margin-left: 60px;
+  width:100%;
+}
